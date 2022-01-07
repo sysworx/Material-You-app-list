@@ -39,3 +39,4 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color "Pix Material Colors Icon Pack")
 - [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers "Pix Wallpapers")
 - [Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall "Swift Walls - Wallpapers")
+- [Paper Splash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash&hl=de_CH&gl=US "Paper Splash")
