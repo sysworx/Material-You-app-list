@@ -14,10 +14,15 @@ Here is a small list of apps that support the Material You design. The list is n
 ------------
 - [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary "Plenary")
 - [Neko Manga Reader](https://github.com/CarlosEsco/Neko "Neko Manga Reader")
+- [Tachiyomi](https://tachiyomi.org/ "Tachiyomi")
 
 ### Weather
 ------------
 - [Wetter Aktuell](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather "Wetter Aktuell")
+
+### Map Apps
+------------
+- [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio&hl=de_CH&gl=US "Fuelio")
 
 ### Tools
 ------------
@@ -25,6 +30,8 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Inware](https://play.google.com/store/apps/details?id=com.evo.inware "Inware")
 - [SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide "SeriesGuide")
 - [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet "Wavelet")
+- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm "Tasker")
+- [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup "Swift Backup")
 
 ### Icons / Wallpaper / Widgets
 ------------
