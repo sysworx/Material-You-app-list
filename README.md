@@ -1,6 +1,8 @@
 # Material You App List
 Here is a small list of apps that support the Material You design. The list is never exhaustive, but will be extended constantly.
 
+![](https://lh3.googleusercontent.com/552oGSlinN0Gd7T8EjNkYGCBzHt0UmoG_pWtHSUY6FwaGT4q4-zJlGHD9rWO7MT5Oe_rtQZmyVnGRxVXch7Q1CTSQMs_1TcwbIMX9xZYDjEK2_R7PA=w1064-v0)
+
 # Known apps:
 
 ### Reddit Clients
