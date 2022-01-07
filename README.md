@@ -13,6 +13,10 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary "Plenary")
 - [Neko Manga Reader](https://github.com/CarlosEsco/Neko "Neko Manga Reader")
 
+### Weather
+------------
+- [Wetter Aktuell](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather "Wetter Aktuell")
+
 ### Tools
 ------------
 - [DarQ](https://github.com/KieronQuinn/DarQ "DarQ")
