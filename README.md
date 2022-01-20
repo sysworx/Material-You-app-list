@@ -32,6 +32,7 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet "Wavelet")
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm "Tasker")
 - [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup "Swift Backup")
+- [AirGuard - AirTag protection](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release "AirGuard - AirTag protection")
 
 ### Icons / Wallpaper / Widgets
 ------------
