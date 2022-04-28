@@ -24,6 +24,13 @@ Here is a small list of apps that support the Material You design. The list is n
 ------------
 - [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio&hl=de_CH&gl=US "Fuelio")
 
+### Media
+------------
+- [LibreTube](https://github.com/libre-tube/LibreTube "LibreTube")
+- [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
+- [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/ "Auxio")
+
+
 ### Tools
 ------------
 - [DarQ](https://github.com/KieronQuinn/DarQ "DarQ")
@@ -33,6 +40,10 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm "Tasker")
 - [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup "Swift Backup")
 - [AirGuard - AirTag protection](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release "AirGuard - AirTag protection")
+- [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller "DiscoverKiller")
+- [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu "ClassicPowerMenu")
+- [TapTap](https://github.com/KieronQuinn/TapTap "TapTap")
+
 
 ### Icons / Wallpaper / Widgets
 ------------
