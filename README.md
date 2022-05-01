@@ -9,6 +9,7 @@ Here is a small list of apps that support the Material You design. The list is n
 ------------
 - [Karma](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter "Karma")
 - [Infinity for Reddit](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit "Infinity for Reddit")
+- [Sync for Reddit](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync&hl=de_CH&gl=US "Sync for Reddit")
 
 ### News Feed and Readers
 ------------
