@@ -16,6 +16,8 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary "Plenary")
 - [Neko Manga Reader](https://github.com/CarlosEsco/Neko "Neko Manga Reader")
 - [Tachiyomi](https://tachiyomi.org/ "Tachiyomi")
+- [Readyou](https://github.com/Ashinch/ReadYou/releases)
+- [News](https://f-droid.org/packages/co.appreactor.news/)
 
 ### Weather
 ------------
@@ -31,7 +33,6 @@ Here is a small list of apps that support the Material You design. The list is n
 - [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
 - [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/ "Auxio")
 
-
 ### Tools
 ------------
 - [DarQ](https://github.com/KieronQuinn/DarQ "DarQ")
@@ -44,7 +45,20 @@ Here is a small list of apps that support the Material You design. The list is n
 - [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller "DiscoverKiller")
 - [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu "ClassicPowerMenu")
 - [TapTap](https://github.com/KieronQuinn/TapTap "TapTap")
+- [Codora - QR Code/Barcode Tools](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
+- [MaterialFiles](https://github.com/zhanghai/MaterialFiles)
+- [Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
+- [Repainter · dynamic themes](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
+- [Counters (Tally, clicks)](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 
+### Messenger
+------------
+- [Nekogram](https://play.google.com/store/apps/details?id=tw.nekomimi.nekogram)
+- [Nagram](https://github.com/NextAlone/Nagram/releases)
+
+### Launcher
+------------
+- [Lawnchair](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
 
 ### Icons / Wallpaper / Widgets
 ------------
@@ -53,3 +67,13 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers "Pix Wallpapers")
 - [Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall "Swift Walls - Wallpapers")
 - [Paper Splash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash&hl=de_CH&gl=US "Paper Splash")
+
+### Alternative AppStore
+------------
+- [Droid-ify](https://f-droid.org/packages/com.looker.droidify/)
+
+### Not Real Material You
+------------
+- [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
+- [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
+
