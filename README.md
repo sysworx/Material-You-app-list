@@ -32,6 +32,7 @@ Here is a small list of apps that support the Material You design. The list is n
 - [LibreTube](https://github.com/libre-tube/LibreTube "LibreTube")
 - [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
 - [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/ "Auxio")
+- [Findroid](https://github.com/jarnedemeulemeester/findroid)
 
 ### Tools
 ------------
@@ -50,6 +51,7 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [Repainter · dynamic themes](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
 - [Counters (Tally, clicks)](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
+- [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep&gl=US)
 
 ### Messenger
 ------------
