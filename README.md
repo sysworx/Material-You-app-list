@@ -18,6 +18,7 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Tachiyomi](https://tachiyomi.org/ "Tachiyomi")
 - [Readyou](https://github.com/Ashinch/ReadYou/releases)
 - [News](https://f-droid.org/packages/co.appreactor.news/)
+- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play)
 
 ### Weather
 ------------
@@ -52,15 +53,24 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Repainter · dynamic themes](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
 - [Counters (Tally, clicks)](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 - [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep&gl=US)
+- [Termux Monet](https://github.com/HardcodedCat/termux-monet)
 
 ### Messenger
 ------------
 - [Nekogram](https://play.google.com/store/apps/details?id=tw.nekomimi.nekogram)
 - [Nagram](https://github.com/NextAlone/Nagram/releases)
 
+### Browser
+------------
+- [Foss Browser](https://f-droid.org/de/packages/de.baumann.browser/)
+
 ### Launcher
 ------------
 - [Lawnchair](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
+
+### Alternative AppStore
+------------
+- [Neo Store](https://f-droid.org/de/packages/com.machiav3lli.fdroid/)
 
 ### Icons / Wallpaper / Widgets
 ------------
@@ -70,12 +80,9 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall "Swift Walls - Wallpapers")
 - [Paper Splash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash&hl=de_CH&gl=US "Paper Splash")
 
-### Alternative AppStore
-------------
-- [Droid-ify](https://f-droid.org/packages/com.looker.droidify/)
-
 ### Not Real Material You
 ------------
 - [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
 - [All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
+- [Droid-ify](https://f-droid.org/packages/com.looker.droidify/)
 
