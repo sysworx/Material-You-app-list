@@ -54,11 +54,15 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Counters (Tally, clicks)](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 - [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep&gl=US)
 - [Termux Monet](https://github.com/HardcodedCat/termux-monet)
+- [JamesDSP](https://github.com/ThePBone/RootlessJamesDSP)
+- [KDE Connect ](https://f-droid.org/packages/org.kde.kdeconnect_tp/)
+- [Telegram Monet](https://github.com/mi-g-alex/Telegram-Monet)
 
 ### Messenger
 ------------
 - [Nekogram](https://play.google.com/store/apps/details?id=tw.nekomimi.nekogram)
 - [Nagram](https://github.com/NextAlone/Nagram/releases)
+- [exteraGram](https://github.com/exteraSquad/exteraGram/releases)
 
 ### Browser
 ------------
@@ -79,6 +83,7 @@ Here is a small list of apps that support the Material You design. The list is n
 - [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers "Pix Wallpapers")
 - [Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall "Swift Walls - Wallpapers")
 - [Paper Splash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash&hl=de_CH&gl=US "Paper Splash")
+- [Material You Dynamic Icon pack](https://play.google.com/store/apps/details?id=com.akbon.myd "Material You Dynamic Icon pack")
 
 ### Not Real Material You
 ------------
